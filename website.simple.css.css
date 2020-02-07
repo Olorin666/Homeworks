@@ -1,0 +1,45 @@
+html {
+    text-align: center;  
+}
+
+#h11 {
+    color: white;
+    text-align: center;
+    background-color: #a52a2a;
+    height: 38px;
+}
+
+
+.letter {
+    color:blue;
+}
+.letter1 {
+    color:blue;
+}
+
+#header1 {
+    border-style: dashed;
+    border-width: 5px;
+}
+#header2 {
+    border-style: dashed;
+    border-width: 5px;
+}
+#header3 {
+    border-style: dashed;
+    border-width: 5px;
+}
+#header4 {
+    border-style: dashed;
+    border-width: 5px;
+}
+#header5 {
+    border-style: dashed;
+    border-width: 5px;
+}
+#p22 {
+    color: white;
+    text-align: center;
+    background-color: black;
+    height: 24px;
+}
